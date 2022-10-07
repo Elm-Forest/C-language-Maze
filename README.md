@@ -1,10 +1,10 @@
-# C语言迷宫游戏，带用户数据增删改查
-好吧其实带了点c++\
+# C language maze game, with user data to add, delete, change and check
+Well, a little c++\
 \
-大一的课程设计作业，当时老师禁用C++，不然直接上面向对象了，栈也不用手写了\
+Freshman course design homework, when the teacher banned C++, or directly on the object-oriented, stack also do not need to write \
 \
-虽说代码很烂但好歹全是自己写的\
+The code sucks, but at least I wrote it myself
 \
-登陆和用户数据修改那一部分小小改动也可以变成学生信息管理系统\
+Login and user data modification that part of small changes can also be turned into a student information management system \
 \
-有些地方似乎有点问题改日再改
+Something seems to be a little off for another day
